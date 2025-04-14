@@ -1,6 +1,6 @@
 # AI-Powered Cold Email Generator
 
-This project generates personalized cold outreach emails using OpenAI models. It leverages a modular structure, fetches data from a database, and logs generation results.
+This project generates personalized cold outreach emails using OpenAI models. It leverages a modular structure, fetches data from a database, and logs generation results.  
 For more information, you may access the report [here](https://drive.google.com/file/d/1FmuGSEUM0UNIaihbrzfKI4Cqgj3n04Ns/view?usp=sharing).
 
 ## Features
