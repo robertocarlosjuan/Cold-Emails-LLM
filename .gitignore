@@ -1,0 +1,6 @@
+*.db
+.env
+chat.py
+chat_save.py
+*.pdf
+__pycache__/
